@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/netherite_pickaxe",
+  "textures": {
+	"base": "item/tools/vanishing/netherite_pickaxe",
+	"stick": "item/tools/unbreaking",
+	"top": "item/tools/mending",
+	"sticktop": "item/tools/mending",
+	"efficiency": "item/tools/efficiency",
+	"efficiencytop": "#efficiency",
+	"stickbottom": "#stick"
+	}
+}

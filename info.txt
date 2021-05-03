@@ -1,0 +1,72 @@
+COMPATIBLE GAME VERSIONS: 1.13 to 1.16 (until further notice)
+OptiFine required.
+Required settings:
+	- Custom Items: ON
+	- Emissive Textures: ON
+
+Visual Enchants
+Unique Spawn Eggs
+Pink Diamonds
+Removed Herobrine
+Symmetry (V3)
+Magical Biomes: Forests
+Magical Biomes: Oceans
+Better dirt & grass
+Stone+ (better stone)
+Better Nether Brick
+Creeper Aw Man
+Casette Disk
+Better Chiseleds
+Better Connected Glass
+Better Connected (colored) Glass
+Smooth End Blocks
+More Striders
+Colorful Flora
+Biomes+
+End Moon
+Better Enchanting Table
+Better Redstone
+
+...as well as a few custom textures and mobs (and the gui background):
+glistering melon
+disk/casette cat
+exp bottle
+sea pickle
+bell
+bee (not mine)
+gui background
+
+
+...as well as a custom LittleImprovements pack (see selectedModules.txt)
+**Aesthetic**
+honey jar
+hot lava bucket
+flower golem
+obsidian ender chest
+purple end eyes
+purple end portal frame
+living dragon
+emissive ores
+shiny compass
+warted
+new style squid
+coral icons
+colourful dead coral
+some shulkers
+chocolate cake
+**Utility**
+anvil sides
+target score
+arrowed dispensers
+**Variated**
+variated nether fungi
+variated nether roots
+variated fungi
+**Fixes & Inconsistensies**
+animated furnaces
+soul campfire
+fixed stonecutter
+fixed cocoa top
+better snowball
+lectern bottom
+crafting table bottom

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+	"base": "item/bow/unbreaking",
+	"tip2": "item/bow/power"
+	}
+}

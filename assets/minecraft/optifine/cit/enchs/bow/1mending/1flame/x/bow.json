@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+	"hand": "item/bow/flame",
+	"string": "item/bow/mending"
+	}
+}

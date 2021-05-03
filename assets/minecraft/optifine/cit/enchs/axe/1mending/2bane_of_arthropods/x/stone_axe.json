@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/stone_axe",
+  "textures": {
+	"base": "item/tools/bane/stone_axe",
+	"sticktop2": "item/tools/mendingaxe",
+	"orb": "#sticktop2",
+	"ring2": "#sticktop2"
+	}
+}

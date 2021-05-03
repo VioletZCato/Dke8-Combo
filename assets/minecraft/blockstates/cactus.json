@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "":
+[
+      {"model": "minecraft:block/cactus", "weight": 2},
+      {"model": "minecraft:block/cactus_flower", "weight": 1}
+]
+  }
+}
+//Made by moon

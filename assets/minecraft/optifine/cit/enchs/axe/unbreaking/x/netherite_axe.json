@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_axe",
+  "textures": {
+	"stick": "item/tools/unbreaking"
+	}
+}

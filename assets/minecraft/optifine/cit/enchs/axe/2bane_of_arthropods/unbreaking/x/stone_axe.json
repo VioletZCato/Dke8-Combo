@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/stone_axe",
+  "textures": {
+	"base": "item/tools/bane/stone_axe",
+	"stick": "item/tools/unbreaking"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_hoe",
+  "textures": {
+	"base": "item/tools/vanishing/netherite_hoe"
+	}
+}

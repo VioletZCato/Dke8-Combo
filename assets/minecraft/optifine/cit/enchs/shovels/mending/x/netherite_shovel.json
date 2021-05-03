@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_shovel",
+  "textures": {
+	"bottom": "item/tools/mending"
+	}
+}

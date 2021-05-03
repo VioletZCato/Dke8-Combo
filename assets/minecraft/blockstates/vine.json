@@ -1,0 +1,120 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply":
+[
+	{
+	"model": "minecraft:block/vine", "weight": 8
+	},
+	{
+	"model": "minecraft:block/vine_flower_0", "weight": 2
+	},
+{
+	"model": "minecraft:block/vine_flower_1", "weight": 1
+	},
+{
+	"model": "minecraft:block/vine_flower_2", "weight": 1
+	},
+{
+	"model": "minecraft:block/vine_flower_3", "weight": 1
+	}
+]
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply":
+[
+	{
+        "model": "minecraft:block/vine", "y": 270, "uvlock": true, "weight": 8
+        },
+	{
+        "model": "minecraft:block/vine_flower_0", "y": 270, "uvlock": true, "weight": 2
+        },
+	{
+        "model": "minecraft:block/vine_flower_1", "y": 270, "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_2", "y": 270, "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_3", "y": 270, "uvlock": true, "weight": 1
+        }
+]
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply":
+[
+	{
+        "model": "minecraft:block/vine", "x": 270, "uvlock": true, "weight": 8
+        },
+	{
+        "model": "minecraft:block/vine_flower_0", "x": 270, "uvlock": true, "weight": 2
+        },
+	{
+        "model": "minecraft:block/vine_flower_1", "x": 270, "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_2", "x": 270, "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_3", "x": 270, "uvlock": true, "weight": 1
+        }
+]
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply":
+[
+	{
+        "model": "minecraft:block/vine", "y": 180,  "uvlock": true, "weight": 8
+        },
+	{
+        "model": "minecraft:block/vine_flower_0", "y": 180,  "uvlock": true, "weight": 2
+        },
+	{
+        "model": "minecraft:block/vine_flower_1", "y": 180,  "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_2", "y": 180,  "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_3", "y": 180,  "uvlock": true, "weight": 1
+        }
+]
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply":
+[
+	{
+        "model": "minecraft:block/vine", "y": 90, "uvlock": true, "weight": 8
+        },
+	{
+        "model": "minecraft:block/vine_flower_0", "y": 90, "uvlock": true, "weight": 2
+        },
+	{
+        "model": "minecraft:block/vine_flower_1", "y": 90, "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_2", "y": 90, "uvlock": true, "weight": 1
+        },
+	{
+        "model": "minecraft:block/vine_flower_3", "y": 90, "uvlock": true, "weight": 1
+        }
+]
+    }
+  ]
+}
+//Made by moon

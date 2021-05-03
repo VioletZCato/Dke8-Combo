@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/iron_hoe",
+  "textures": {
+	"base": "item/tools/vanishing/iron_hoe",
+	"top": "item/tools/mending",
+	"sticktop": "item/tools/mending",
+	"efficiency": "item/tools/efficiency",
+	"efficiencytop": "#efficiency",
+	"stickbottom": "#stick"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_shovel",
+  "textures": {
+	"stick": "item/tools/unbreakingshovel"
+	}
+}

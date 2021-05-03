@@ -1,0 +1,26 @@
+{
+  "variants": { "": [
+                {"model": "minecraft:oak/oak_leaves", "weight": 2000 },
+                {"model": "minecraft:oak/oak_leaves_apple", "weight": 300 },
+                {"model": "minecraft:oak/oak_leaves_apple_1", "weight": 500 },
+                {"model": "minecraft:oak/oak_leaves_apple_2", "weight": 300 },
+                {"model": "minecraft:oak/oak_leaves_apple_lime", "weight": 200 },
+                {"model": "minecraft:oak/oak_leaves_apple_lime_1", "weight": 300 },
+                {"model": "minecraft:oak/oak_leaves_apple_lime_2", "weight": 200 },                
+                {"model": "minecraft:oak/oak_leaves_apple_gold", "weight": 6 },
+                {"model": "minecraft:oak/oak_leaves_apple_gold_1", "weight": 6 },
+                {"model": "minecraft:oak/oak_leaves_apple_gold_2", "weight": 6 },
+                {"model": "minecraft:oak/oak_leaves_bird", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird_1", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird_2", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird_3", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird_4", "weight": 1 },
+                {"model": "minecraft:oak/oak_leaves_bird2", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird2_1", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird2_2", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird2_3", "weight": 10 },
+                {"model": "minecraft:oak/oak_leaves_bird2_4", "weight": 1 }
+
+          ]   }
+}
+

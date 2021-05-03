@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_hoe",
+  "textures": {
+	"stick": "item/tools/unbreaking"
+	}
+}

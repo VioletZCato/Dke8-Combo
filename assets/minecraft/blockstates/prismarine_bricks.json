@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/prismarine_bricks/block/0"
+      },
+      {
+        "model": "block/prismarine_bricks/block/1"
+      },
+      {
+        "model": "block/prismarine_bricks/block/2"
+      },
+      {
+        "model": "block/prismarine_bricks/block/3"
+      },
+      {
+        "model": "block/prismarine_bricks/block/4"
+      },
+      {
+        "model": "block/prismarine_bricks/block/5"
+      },
+      {
+        "model": "block/prismarine_bricks/block/6"
+      },
+      {
+        "model": "block/prismarine_bricks/block/7"
+      },
+      {
+        "model": "block/prismarine_bricks/block/8"
+      },
+      {
+        "model": "block/prismarine_bricks/block/9"
+      },
+      {
+        "model": "block/prismarine_bricks/block/10"
+      },
+      {
+        "model": "block/prismarine_bricks/block/11"
+      },
+      {
+        "model": "block/prismarine_bricks/block/12"
+      },
+      {
+        "model": "block/prismarine_bricks/block/13"
+      },
+      {
+        "model": "block/prismarine_bricks/block/14"
+      },
+      {
+        "model": "block/prismarine_bricks/block/15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/golden_hoe",
+  "textures": {
+	"top": "item/tools/mending",
+	"sticktop": "item/tools/mending",
+	"stickbottom": "#stick",
+	"efficiencytop": "#stick"
+	}
+}

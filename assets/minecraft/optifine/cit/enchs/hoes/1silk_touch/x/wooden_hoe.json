@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/wooden_hoe",
+  "textures": {
+	"top": "item/tools/silk_touch",
+	"sticktop": "item/tools/silk_touch"
+	}
+}

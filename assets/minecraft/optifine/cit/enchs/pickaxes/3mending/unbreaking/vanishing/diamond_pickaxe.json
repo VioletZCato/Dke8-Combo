@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/diamond_pickaxe",
+  "textures": {
+	"base": "item/tools/vanishing/diamond_pickaxe",
+	"top": "item/tools/mending",
+	"sticktop": "item/tools/mending",
+	"stick": "item/tools/unbreaking",
+	"efficiencytop": "#stick",
+	"stickbottom": "#stick"
+	}
+}

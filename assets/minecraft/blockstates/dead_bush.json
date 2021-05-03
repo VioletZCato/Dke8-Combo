@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": 
+	[
+
+{ "model": "block/dead_bush", "weight":16 },
+{ "model": "block/dead_bush_alive", "weight":1 } 
+	]    
+}
+}
+//Made by moon

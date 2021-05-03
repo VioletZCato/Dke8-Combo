@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/golden_hoe",
+  "textures": {
+	"base": "item/tools/vanishing/golden_hoe",
+	"top": "item/tools/mending",
+	"sticktop": "item/tools/mending",
+	"stick": "item/tools/unbreaking",
+	"efficiencytop": "#stick",
+	"stickbottom": "#stick"
+	}
+}

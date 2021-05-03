@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/leaves",
+	"textures": {
+		"3": "fruits/spruce cone",
+		"all": "block/spruce_leaves",
+		"bush": "block/spruce_leaves_bushy"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "fruit",
+			"from": [9, -13, 2],
+			"to": [9, -7, 8],
+			"rotation": {"angle": -45, "axis": "x", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 1], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 1], "rotation": 90, "texture": "#3"}
+			}
+		},
+		{
+			"from": [14, -8, -7],
+			"to": [14, 24, 25],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [14.125, -8, -6.8125]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-7, -8, 2],
+			"to": [25, 24, 2],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [-6.8125, -8, 1.875]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
+			}
+		}
+	]
+}

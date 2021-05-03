@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/netherite_hoe",
+  "textures": {
+	"top": "item/tools/mending",
+	"sticktop": "item/tools/mending",
+	"stickbottom": "#stick",
+	"efficiencytop": "#stick"
+	}
+}

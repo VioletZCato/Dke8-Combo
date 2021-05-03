@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow_pulling_2",
+  "textures": {
+	"base": "item/bow/vanishing"
+	}
+}

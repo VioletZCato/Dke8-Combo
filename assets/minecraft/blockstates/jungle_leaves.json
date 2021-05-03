@@ -1,0 +1,17 @@
+{
+  "variants": { "": [
+                {"model": "minecraft:jungle/jungle_leaves", "weight": 200 },
+                {"model": "minecraft:jungle/jungle_leaves_mango", "weight": 100 },
+                {"model": "minecraft:jungle/jungle_leaves_mango_1", "weight": 100 },
+                {"model": "minecraft:jungle/jungle_leaves_mango_2", "weight": 100 },
+                {"model": "minecraft:jungle/jungle_leaves_bird_0", "weight": 5 },
+                {"model": "minecraft:jungle/jungle_leaves_bird_1", "weight": 5 },
+                {"model": "minecraft:jungle/jungle_leaves_bird_2", "weight": 5 },
+                {"model": "minecraft:jungle/jungle_leaves_bird2_0", "weight": 5 },
+                {"model": "minecraft:jungle/jungle_leaves_bird2_1", "weight": 5 },
+                {"model": "minecraft:jungle/jungle_leaves_bird2_2", "weight": 5 },
+                {"model": "minecraft:jungle/jungle_leaves_monke", "weight": 1 },
+                {"model": "minecraft:jungle/jungle_leaves_monke_banana", "weight": 1 }
+          ]   }
+}
+

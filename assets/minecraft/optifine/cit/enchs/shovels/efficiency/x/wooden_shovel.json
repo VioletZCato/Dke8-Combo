@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/wooden_shovel",
+  "textures": {
+	"efficiency": "item/tools/efficiency"
+	}
+}

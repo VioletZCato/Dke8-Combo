@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bow_pulling_1",
+  "textures": {
+	"base": "item/bow/unbreakingvanishing",
+	"tip2": "item/bow/power"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_sword",
+  "textures": {
+	"bottom": "item/sword/mending"
+	}
+}

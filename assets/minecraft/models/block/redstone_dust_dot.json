@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/redstone_dust_dot",
+		"particle": "block/models/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 14]},
+			"faces": {
+				"north": {"uv": [4, 13, 12, 15], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [4, 13, 12, 15], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [4, 13, 12, 15], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [4, 13, 12, 15], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

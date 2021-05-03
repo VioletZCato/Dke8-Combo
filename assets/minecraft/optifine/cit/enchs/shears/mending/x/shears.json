@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/shears",
+  "textures": {
+	"mending": "item/shears/mending"
+	}
+}

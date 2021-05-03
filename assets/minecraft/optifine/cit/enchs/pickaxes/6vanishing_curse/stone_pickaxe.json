@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_pickaxe",
+  "textures": {
+	"base": "item/tools/vanishing/stone_pickaxe"
+	}
+}

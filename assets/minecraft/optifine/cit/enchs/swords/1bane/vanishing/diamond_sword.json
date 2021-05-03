@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_sword",
+  "textures": {
+	"base": "item/sword/bane/vanishing/diamond_sword"
+	}
+}

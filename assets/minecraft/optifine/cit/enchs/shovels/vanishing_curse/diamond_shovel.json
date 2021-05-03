@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_shovel",
+  "textures": {
+	"base": "item/tools/vanishing/diamond_shovel"
+	}
+}
