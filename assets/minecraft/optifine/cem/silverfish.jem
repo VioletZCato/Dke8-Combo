@@ -1,0 +1,81 @@
+{
+	"texture": "silverfish.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body1",
+			"id": "body1",
+			"invertAxis": "xy",
+			"translate": [0, -2, 3.5]
+		},
+		{
+			"part": "body2",
+			"id": "body2",
+			"invertAxis": "xy",
+			"translate": [0, -3, 1.5],
+			"boxes": [
+				{"coordinates": [-4, 1.1, -7.75, 8, 0, 6], "textureOffset": [36, 0]}
+			]
+		},
+		{
+			"part": "body3",
+			"id": "body3",
+			"invertAxis": "xy",
+			"translate": [0, -4, -1],
+			"boxes": [
+				{"coordinates": [-2, 0.1, -2, 4, 2, 5], "textureOffset": [46, 6]}
+			]
+		},
+		{
+			"part": "body4",
+			"id": "body4",
+			"invertAxis": "xy",
+			"translate": [0, -3, -4],
+			"boxes": [
+				{"coordinates": [-1.5, 0.1, 3, 3, 2, 4], "textureOffset": [48, 13]}
+			]
+		},
+		{
+			"part": "body5",
+			"id": "body5",
+			"invertAxis": "xy",
+			"translate": [0, -2, -7],
+			"boxes": [
+				{"coordinates": [-2.5, 1.1, 7, 5, 0, 7], "textureOffset": [40, 25]}
+			]
+		},
+		{
+			"part": "body6",
+			"id": "body6",
+			"invertAxis": "xy",
+			"translate": [0, -1, -9.5]
+		},
+		{
+			"part": "body7",
+			"id": "body7",
+			"invertAxis": "xy",
+			"translate": [0, -1, -11.5]
+		},
+		{
+			"part": "wing1",
+			"id": "wing1",
+			"invertAxis": "xy",
+			"translate": [0, -8, -1],
+			"boxes": [
+				{"coordinates": [-4, 0.2, -1.5, 8, 0, 5], "textureOffset": [36, 19]}
+			]
+		},
+		{
+			"part": "wing2",
+			"id": "wing2",
+			"invertAxis": "xy",
+			"translate": [0, -4, -7]
+		},
+		{
+			"part": "wing3",
+			"id": "wing3",
+			"invertAxis": "xy",
+			"translate": [0, -5, 1.5]
+		}
+	]
+}

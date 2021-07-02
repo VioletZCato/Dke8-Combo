@@ -1,0 +1,9 @@
+{
+  "variants": { "": [
+                {"model": "minecraft:birch/birch_leaves", "weight": 200 },
+                {"model": "minecraft:birch/birch_leaves_cherry_1", "weight": 100 },
+                {"model": "minecraft:birch/birch_leaves_cherry_2", "weight": 100 },
+		{"model": "minecraft:birch/birch_leaves_cherryman", "weight": 10 }
+          ]   }
+}
+

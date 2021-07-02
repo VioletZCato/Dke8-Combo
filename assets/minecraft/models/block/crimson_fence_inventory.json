@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "block/crimson_planks",
+    "texture2": "block/crimson_stem"
+  }
+}

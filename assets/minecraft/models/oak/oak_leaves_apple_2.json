@@ -3,8 +3,7 @@
 	"parent": "minecraft:block/leaves",
 	"textures": {
 		"1": "fruits/tree_apple",
-		"all": "block/oak_leaves",
-		"bush": "block/oak_leaves_bushy"
+		"all": "block/oak_leaves"
 	},
 	"elements": [
 		{
@@ -30,26 +29,6 @@
 				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 1], "rotation": 270, "texture": "#1"},
 				"down": {"uv": [0, 0, 16, 1], "rotation": 90, "texture": "#1"}
-			}
-		},
-		{
-			"from": [14, -8, -7],
-			"to": [14, 24, 25],
-			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [14.125, -8, -6.8125]},
-			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
-			}
-		},
-		{
-			"from": [-7, -8, 2],
-			"to": [25, 24, 2],
-			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [-6.8125, -8, 1.875]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
 			}
 		}
 	]

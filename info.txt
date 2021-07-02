@@ -26,6 +26,9 @@ Biomes+
 End Moon
 Better Enchanting Table
 Better Redstone
+Stacked Items
+Noteblock Display
+Fancy Long Fences
 
 ...as well as a few custom textures and mobs (and the gui background):
 glistering melon

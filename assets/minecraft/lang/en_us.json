@@ -71,5 +71,9 @@
   "item.minecraft.paper":"Parchment",
   "item.minecraft.nether_brick":"Chocolate Bar",
   "item.minecraft.music_disc_11":"Creeper... Aww Man",
-  "item.minecraft.music_disc_13":"Overworld"
+  "item.minecraft.music_disc_13":"Overworld",
+  "block.minecraft.brown_mushroom": "Glowshroom",
+  "block.minecraft.brown_mushroom_block": "Glowshroom Block",
+  "block.minecraft.smooth_red_sandstone": "Red Sandstone Bricks",
+  "block.minecraft.smooth_sandstone": "Sandstone Bricks"
 }

@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/leaves_bushy",
+	"parent": "minecraft:block/leaves",
 	"textures": {
 		"1": "animals/monke_banana",
-		"all": "block/jungle_leaves",
-		"bush": "block/jungle_leaves_bushy"
+		"all": "block/jungle_leaves"
 	},
 	"elements": [
 		{
@@ -31,26 +30,6 @@
 				"west": {"uv": [0, 0, 0, 6], "texture": "#missing"},
 				"up": {"uv": [0, 0, 6, 0], "texture": "#missing"},
 				"down": {"uv": [0, 0, 6, 0], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [14, -8, -7],
-			"to": [14, 24, 25],
-			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [14.125, -8, -6.8125]},
-			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
-			}
-		},
-		{
-			"from": [-7, -8, 2],
-			"to": [25, 24, 2],
-			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [-6.8125, -8, 1.875]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
 			}
 		}
 	]
