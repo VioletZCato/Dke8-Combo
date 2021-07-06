@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench by Fran",
+	"parent": "block/note_block/note",
+	"textures": {
+	    "note": "custom/note_block/notes/1"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench by Fran",
+	"elements": [
+		{
+			"name": "instrument",
+			"from": [-0.01, 12, -0.01],
+			"to": [16.01, 14.5, 16.01],
+			"faces": {
+				"north": {"uv": [0, 1.5, 16, 4], "texture": "#instrument", "cullface": "north"},
+				"east": {"uv": [0, 1.5, 16, 4], "texture": "#instrument", "cullface": "east"},
+				"south": {"uv": [0, 1.5, 16, 4], "texture": "#instrument", "cullface": "south"},
+				"west": {"uv": [0, 1.5, 16, 4], "texture": "#instrument", "cullface": "west"}
+			}
+		}
+	]
+}

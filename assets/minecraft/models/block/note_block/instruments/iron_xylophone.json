@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench by Fran",
+	"parent": "block/note_block/instrument",
+	"textures": {
+	    "instrument": "custom/note_block/instruments/iron_xylophone"
+	}
+}
